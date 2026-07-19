@@ -10,15 +10,17 @@ The notebooks in this repository were developed using the **Amazon Sports & Outd
 * **Reviews:** 296,337
 * **Task:** Multi-class sentiment classification
 
-The original review ratings were reformulated into three sentiment classes:
+The frequency of each of the five sentiment classes are :
 
 | Original Rating | Sentiment Label |
 | --------------- | --------------: |
-| 1 ★, 2 ★, 3 ★   |               0 |
-| 4 ★             |               1 |
-| 5 ★             |               2 |
+| 1 ★             |               9045  |
+| 2 ★             |               10204 |
+| 3 ★             |               24071 |
+| 4 ★             |               64809 |
+| 5 ★             |              188208 |
 
-This label mapping creates a challenging, naturally imbalanced sentiment classification problem that is explored throughout the repository.
+The frequency of each label clearly shows a biased dataset towards high frequency ratings and harder prediction task .
 
 ## Download
 
