@@ -27,7 +27,7 @@ The dataset is **not included** in this repository because of its size and licen
 Download the dataset from the official Amazon Review Data repository:
 
 **Amazon Review Data (2018)**
-https://nijianmo.github.io/amazon/index.html](https://www.kaggle.com/datasets/aarishasifkhan/sports-and-outdoor-review-dataset
+https://www.kaggle.com/datasets/aarishasifkhan/sports-and-outdoor-review-dataset
 
 After downloading, place the dataset in this directory:
 
