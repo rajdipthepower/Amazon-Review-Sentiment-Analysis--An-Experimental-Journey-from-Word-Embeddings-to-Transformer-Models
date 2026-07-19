@@ -4,7 +4,7 @@ This directory contains figures used throughout the project documentation.
 
 Current contents include:
 
-* **image.png** – Repository image displayed at the top of the main README and it's also the Model Architecture on how models have evolved .
+* **architecture.png** – Repository image displayed at the top of the main README and it's also the Model Architecture on how models have evolved .
 * **confusion_matrix.png** – Confusion matrix of the final DistilBERT model evaluated on the test set.
 
 Additional visualizations such as training curves, model architecture diagrams, attention maps, or embedding projections may be added in future updates.
