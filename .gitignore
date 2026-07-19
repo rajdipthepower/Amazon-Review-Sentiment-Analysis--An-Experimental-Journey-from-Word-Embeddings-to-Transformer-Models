@@ -216,3 +216,32 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =====================================================
+# Project Specific
+# =====================================================
+
+# Dataset files (keep data/README.md)
+data/*.json
+data/*.csv
+data/*.zip
+data/*.gz
+data/*.tar
+data/*.tar.gz
+
+# Trained models
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.ckpt
+
+# Hugging Face checkpoints
+checkpoint-*/
+sentiment_experiment/
+
+# TensorBoard
+runs/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
