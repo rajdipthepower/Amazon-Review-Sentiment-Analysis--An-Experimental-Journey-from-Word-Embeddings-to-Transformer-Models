@@ -1,3 +1,5 @@
+![Amazon Sentiment Analysis Pipeline](Images/image.png)
+
 # From Word2Vec to DistilBERT
 
 ### Experimental Journey in Amazon Review Sentiment Analysis
