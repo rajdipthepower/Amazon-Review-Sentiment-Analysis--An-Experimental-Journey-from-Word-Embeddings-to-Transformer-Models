@@ -1,1 +1,14 @@
-
+torch
+transformers
+datasets
+accelerate
+evaluate
+gensim
+numpy
+pandas
+scikit-learn
+matplotlib
+regex
+tqdm
+jupyter
+notebook
