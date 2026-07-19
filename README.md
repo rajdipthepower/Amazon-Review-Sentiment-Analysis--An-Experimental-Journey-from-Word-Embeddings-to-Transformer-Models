@@ -1,4 +1,4 @@
-![Amazon Sentiment Analysis Pipeline](Images/image.png)
+![Amazon Sentiment Analysis Pipeline](Images/architecture.png)
 
 # From Word2Vec to DistilBERT
 
